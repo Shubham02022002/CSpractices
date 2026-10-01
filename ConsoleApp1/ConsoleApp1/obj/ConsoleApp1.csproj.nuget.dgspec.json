@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\chaud\\OneDrive\\Desktop\\c#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\chaud\\OneDrive\\Desktop\\c#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\chaud\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\chaud\\OneDrive\\Desktop\\c#\\ConsoleApp1\\ConsoleApp1\\obj\\",
+=======
+    "C:\\Users\\chaud\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\chaud\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chaud\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "C:\\Users\\chaud\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\chaud\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chaud\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+>>>>>>> 65d125d1ce09aeb798396cd4694dbe80e6f33791
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
