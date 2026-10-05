@@ -1,14 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "OE9s91G8Ymk=",
   "success": true,
   "projectFilePath": "C:\\Users\\chaud\\OneDrive\\Desktop\\c#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-=======
-  "dgSpecHash": "QkrNgfDE3wQ=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\chaud\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
->>>>>>> 65d125d1ce09aeb798396cd4694dbe80e6f33791
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\chaud\\OneDrive\\Desktop\\c#\\ConsoleApp1\\ConsoleApp1\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\chaud\\OneDrive\\Desktop\\c#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\chaud\\OneDrive\\Desktop\\c#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

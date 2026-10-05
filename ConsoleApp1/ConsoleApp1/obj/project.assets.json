@@ -14,19 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\chaud\\OneDrive\\Desktop\\c#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
       "projectPath": "C:\\Users\\chaud\\OneDrive\\Desktop\\c#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\chaud\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\chaud\\OneDrive\\Desktop\\c#\\ConsoleApp1\\ConsoleApp1\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\chaud\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\chaud\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\chaud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chaud\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
->>>>>>> 65d125d1ce09aeb798396cd4694dbe80e6f33791
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -359,5 +351,13 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\chaud\\OneDrive\\Desktop\\c#\\ConsoleApp1\\ConsoleApp1\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+    }
+  ]
 }
